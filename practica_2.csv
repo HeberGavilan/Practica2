@@ -1,4 +1,4 @@
-ID,Datetime,Temperature,Humidity,Pressure,Co2 Gas,PM2.5,PM10,Daytime
+ID,Datetime,Temperature,Humidity,Pressure,Co2,Gas,PM2.5,PM10,Daytime
 "0,""Mon, 20 May 2019 19:08:34 GMT"",23.00525734,33.06045426,972.7844332,626,3.8,8.8,Night"
 "1,""Mon, 20 May 2019 19:08:35 GMT"",22.98994236,33.09548316,972.8444715,627,3.8,8.9,Night"
 "2,""Mon, 20 May 2019 19:08:36 GMT"",23.00015235,33.08046737,972.8044464,627,3.8,8.9,Night"
